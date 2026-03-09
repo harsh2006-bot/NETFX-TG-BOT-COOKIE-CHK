@@ -37,7 +37,7 @@ log.setLevel(logging.ERROR)
 
 # Bot State & Configuration
 user_modes = {}
-BOT_TOKEN = "8477278414:AAHAxLMV9lgqvSCjnj_AIDnH6pxm82Q55So"
+BOT_TOKEN = "8477278414:AAG09JSPwKCSdDSlRzMQ5Lr2MC8BbBMvvhc"
 ADMIN_ID = 6176299339
 CHANNELS = ["@F88UFNETFLIX", "@F88UF9844"]
 CHANNELS = ["@F88UFNETFLIX", "@F88UF9844", "@F88UF"]
@@ -512,3 +512,4 @@ def check_cookie(cookie_input):
         extracted_cookies = []
         # Extract NetflixId
         nid_match
+
