@@ -37,7 +37,7 @@ log.setLevel(logging.ERROR)
 
 # Bot State & Configuration
 user_modes = {}
-BOT_TOKEN = "8477278414:AAHAxLMV9lgqvSCjnj_AIDnH6pxm82Q55So"
+BOT_TOKEN = "8477278414:AAGvWq9yxEsn-NOJOGvK5QIK_HYiioGe6wo"
 ADMIN_ID = 6176299339
 CHANNELS = ["@F88UFNETFLIX", "@F88UF9844"]
 CHANNELS = ["@F88UFNETFLIX", "@F88UF9844", "@F88UF"]
@@ -46,8 +46,8 @@ SCREENSHOT_SEMAPHORE = threading.Semaphore(8) # Increased for speed
 SCRAPINGBEE_API_KEY = "I4E0BJF8RGODUJEX05I74W6JL9OATAL2E5VYTU066INNAPY9VM1V27VL1V3XG3H34YWO4NMYCSX35HQ8"
 NETFLIX_PREMIUM_API_KEY = "nf_live_premium_7f9a2b4c6d8e1f3a5b7c9d2e4f6a8b0c"
 NETFLIX_PREMIUM_ENDPOINT = "https://api.netflix.com/v1/temp-access/magic-link"
-NFTGEN_API_URL = "http://nftgenapi.onrender.com/api"
-NFTGEN_API_KEY = "KUROSAKI_YtkX2SnPDdtn0jU9fVyE0iSIGnjPaYIO"
+NFTGEN_API_URL = "https://nftoken.site/v1/api.php"
+NFTGEN_API_KEY = "NFK_dda3ee3932171d33d94067e3"
 
 # ==========================================
 # WEB SERVER (KEEP ALIVE)
